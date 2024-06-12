@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Andrew Souza. Sou um desenvolvedor apaixonado por criar soluções eficientes e inovadoras. Com experiência em desenvolvimento web utilizando PHP, JavaScript, HTML e CSS, tenho focado em projetos que melhoram a experiência do usuário e a produtividade das equipes. 😁
+### 👋 Olá! Eu sou o Andrew Souza. Sou um desenvolvedor apaixonado por criar soluções eficientes e inovadoras. Com experiência em desenvolvimento web utilizando PHP, SQL, JavaScript, HTML e CSS, tenho focado em projetos que melhoram a experiência do usuário e a produtividade das equipes. 😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-gouv%C3%AAa-551b052a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrewgs_?igsh=MTlmOHNoOWxjcXpyNA==)
