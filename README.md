@@ -16,4 +16,7 @@
        
 </div><br />
 
+![Anurag's GitHub stats](https://github-stats-pi-two.vercel.app/api?username=AndrewGouvea&theme=chartreuse-dark&count_private=true&show_icons=true)
+![Top Langs](https://github-stats-pi-two.vercel.app/api/top-langs/?username=AndrewGouvea&count_private=true&layout=compact)
+
 Apaixonado por tecnologia e programação, busco sempre evoluir meus aprendizados e conhecimentos
